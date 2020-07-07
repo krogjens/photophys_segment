@@ -1,0 +1,5 @@
+lund_gain300_chippars.txt 
+gain 46.21
+adfactor 35.68
+countoffset 27.25
+ronoise 52.33

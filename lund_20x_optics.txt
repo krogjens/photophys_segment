@@ -1,0 +1,4 @@
+experiment cells
+NA 0.75
+wavelength 509
+pixelsize 800
